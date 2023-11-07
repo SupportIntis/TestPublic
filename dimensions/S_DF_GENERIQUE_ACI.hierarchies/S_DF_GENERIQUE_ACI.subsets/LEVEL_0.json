@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"LEVEL_0",
+	"Expression":"{TM1FILTERBYLEVEL( {TM1DRILLDOWNMEMBER( {TM1SUBSETALL( [S_DF_GENERIQUE_ACI] )}, ALL, RECURSIVE )}, 0)}"
+}

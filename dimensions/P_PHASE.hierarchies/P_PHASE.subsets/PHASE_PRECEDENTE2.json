@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"PHASE_PRECEDENTE2",
+	"Expression":"{STRTOMEMBER(\"[P_PHASE].[\" + [Z_PARAM].([Z_PARAM].[CD_PHASE_PRECEDENTE2],[Z_PARAM_INDIC].[CD_VALEUR]) + \"]\")}"
+}

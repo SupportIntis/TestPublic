@@ -1,0 +1,19 @@
+{
+	"@type":"Subset",
+	"Name":"77311",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('S_ORDRE_INTERNE')/Hierarchies('S_ORDRE_INTERNE')/Elements('602140')"
+		},
+		{
+			"@id":"Dimensions('S_ORDRE_INTERNE')/Hierarchies('S_ORDRE_INTERNE')/Elements('603326')"
+		},
+		{
+			"@id":"Dimensions('S_ORDRE_INTERNE')/Hierarchies('S_ORDRE_INTERNE')/Elements('603327')"
+		},
+		{
+			"@id":"Dimensions('S_ORDRE_INTERNE')/Hierarchies('S_ORDRE_INTERNE')/Elements('603420')"
+		}
+	]
+}

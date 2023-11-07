@@ -1,0 +1,13 @@
+{
+	"@type":"Subset",
+	"Name":"COST_PHASE_2",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('S_DF_GENERIQUE_ACI')/Hierarchies('S_DF_GENERIQUE_ACI')/Elements('.12')"
+		},
+		{
+			"@id":"Dimensions('S_DF_GENERIQUE_ACI')/Hierarchies('S_DF_GENERIQUE_ACI')/Elements('.6')"
+		}
+	]
+}

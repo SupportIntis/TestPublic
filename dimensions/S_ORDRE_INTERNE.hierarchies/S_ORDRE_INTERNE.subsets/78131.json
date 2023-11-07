@@ -1,0 +1,13 @@
+{
+	"@type":"Subset",
+	"Name":"78131",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('S_ORDRE_INTERNE')/Hierarchies('S_ORDRE_INTERNE')/Elements('603244')"
+		},
+		{
+			"@id":"Dimensions('S_ORDRE_INTERNE')/Hierarchies('S_ORDRE_INTERNE')/Elements('603460')"
+		}
+	]
+}

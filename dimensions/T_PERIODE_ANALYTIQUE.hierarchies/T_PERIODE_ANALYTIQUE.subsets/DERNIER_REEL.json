@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"DERNIER_REEL",
+	"Expression":"{STRTOMEMBER(\"[T_PERIODE_ANALYTIQUE].[\" + [Z_PARAM].([Z_PARAM].[CD_ANNEE_MOINS2],[Z_PARAM_INDIC].[CD_VALEUR]) + \"]\")}"
+}

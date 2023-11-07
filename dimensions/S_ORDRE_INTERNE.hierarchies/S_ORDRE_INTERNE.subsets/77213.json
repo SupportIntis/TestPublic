@@ -1,0 +1,34 @@
+{
+	"@type":"Subset",
+	"Name":"77213",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('S_ORDRE_INTERNE')/Hierarchies('S_ORDRE_INTERNE')/Elements('600284')"
+		},
+		{
+			"@id":"Dimensions('S_ORDRE_INTERNE')/Hierarchies('S_ORDRE_INTERNE')/Elements('602081')"
+		},
+		{
+			"@id":"Dimensions('S_ORDRE_INTERNE')/Hierarchies('S_ORDRE_INTERNE')/Elements('602204')"
+		},
+		{
+			"@id":"Dimensions('S_ORDRE_INTERNE')/Hierarchies('S_ORDRE_INTERNE')/Elements('602340')"
+		},
+		{
+			"@id":"Dimensions('S_ORDRE_INTERNE')/Hierarchies('S_ORDRE_INTERNE')/Elements('602760')"
+		},
+		{
+			"@id":"Dimensions('S_ORDRE_INTERNE')/Hierarchies('S_ORDRE_INTERNE')/Elements('602980')"
+		},
+		{
+			"@id":"Dimensions('S_ORDRE_INTERNE')/Hierarchies('S_ORDRE_INTERNE')/Elements('602983')"
+		},
+		{
+			"@id":"Dimensions('S_ORDRE_INTERNE')/Hierarchies('S_ORDRE_INTERNE')/Elements('602985')"
+		},
+		{
+			"@id":"Dimensions('S_ORDRE_INTERNE')/Hierarchies('S_ORDRE_INTERNE')/Elements('603121')"
+		}
+	]
+}

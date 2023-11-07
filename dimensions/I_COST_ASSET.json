@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"I_COST_ASSET",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('I_COST_ASSET')/Hierarchies('I_COST_ASSET')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"I_COST_ASSET.hierarchies/I_COST_ASSET.json"
+	]
+}

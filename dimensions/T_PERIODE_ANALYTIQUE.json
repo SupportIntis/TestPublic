@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"T_PERIODE_ANALYTIQUE",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('T_PERIODE_ANALYTIQUE')/Hierarchies('T_PERIODE_ANALYTIQUE')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"T_PERIODE_ANALYTIQUE.hierarchies/T_PERIODE_ANALYTIQUE.json"
+	]
+}

@@ -1,0 +1,243 @@
+{
+	"@type":"Hierarchy",
+	"Name":"P_PHASE",
+	"Elements":
+	[
+		{
+			"Name":"TOT_PHASES",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CD_BUD_ENCOURS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CD_FCT_ENCOURS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CD_REEL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HISTO",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CD_BUD_INI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BUDGET VALIDE (FC1 2017)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FC2 2017 VALIDE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BUDGET 2018 VALIDE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FC2 2018 (YTD R18 - YTG B18)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BUDGET 2019 VALIDE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FC1 2019 VALIDE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FC2 2019 VALIDE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BUDGET 2020 VALIDE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FC1 2020 VALIDE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FC2 2020 VALIDE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEST_JPA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BUDGET 2021 VALIDE HORS 77",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FC1 2021 VALIDE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FC2 2021 VALIDE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BUDGET 2022 VALIDÉ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FORECAST 2022",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BUDGET 2023 VALIDE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BUDGET 2023 VALIDE DEV",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEST_SME",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"TOT_PHASES",
+			"ComponentName":"CD_BUD_ENCOURS",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOT_PHASES",
+			"ComponentName":"CD_FCT_ENCOURS",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOT_PHASES",
+			"ComponentName":"CD_REEL",
+			"Weight":1
+		},
+		{
+			"ParentName":"HISTO",
+			"ComponentName":"CD_BUD_INI",
+			"Weight":0
+		},
+		{
+			"ParentName":"HISTO",
+			"ComponentName":"BUDGET VALIDE (FC1 2017)",
+			"Weight":0
+		},
+		{
+			"ParentName":"HISTO",
+			"ComponentName":"FC2 2017 VALIDE",
+			"Weight":0
+		},
+		{
+			"ParentName":"HISTO",
+			"ComponentName":"BUDGET 2018 VALIDE",
+			"Weight":0
+		},
+		{
+			"ParentName":"HISTO",
+			"ComponentName":"FC2 2018 (YTD R18 - YTG B18)",
+			"Weight":0
+		},
+		{
+			"ParentName":"HISTO",
+			"ComponentName":"BUDGET 2019 VALIDE",
+			"Weight":0
+		},
+		{
+			"ParentName":"HISTO",
+			"ComponentName":"FC1 2019 VALIDE",
+			"Weight":0
+		},
+		{
+			"ParentName":"HISTO",
+			"ComponentName":"FC2 2019 VALIDE",
+			"Weight":0
+		},
+		{
+			"ParentName":"HISTO",
+			"ComponentName":"BUDGET 2020 VALIDE",
+			"Weight":0
+		},
+		{
+			"ParentName":"HISTO",
+			"ComponentName":"FC1 2020 VALIDE",
+			"Weight":0
+		},
+		{
+			"ParentName":"HISTO",
+			"ComponentName":"FC2 2020 VALIDE",
+			"Weight":0
+		},
+		{
+			"ParentName":"HISTO",
+			"ComponentName":"TEST_JPA",
+			"Weight":0
+		},
+		{
+			"ParentName":"HISTO",
+			"ComponentName":"BUDGET 2021 VALIDE HORS 77",
+			"Weight":0
+		},
+		{
+			"ParentName":"HISTO",
+			"ComponentName":"FC1 2021 VALIDE",
+			"Weight":0
+		},
+		{
+			"ParentName":"HISTO",
+			"ComponentName":"FC2 2021 VALIDE",
+			"Weight":0
+		},
+		{
+			"ParentName":"HISTO",
+			"ComponentName":"BUDGET 2022 VALIDÉ",
+			"Weight":0
+		},
+		{
+			"ParentName":"HISTO",
+			"ComponentName":"FORECAST 2022",
+			"Weight":0
+		},
+		{
+			"ParentName":"HISTO",
+			"ComponentName":"BUDGET 2023 VALIDE",
+			"Weight":0
+		},
+		{
+			"ParentName":"HISTO",
+			"ComponentName":"BUDGET 2023 VALIDE DEV",
+			"Weight":0
+		},
+		{
+			"ParentName":"HISTO",
+			"ComponentName":"TEST_SME",
+			"Weight":0
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"P_PHASE.subsets/#_#_ALIM_REEL_LAM_TO_RESTITUTION_2023-05-10-151558_42883.json",
+		"P_PHASE.subsets/#_#_ALIM_REEL_LAM_TO_RESTITUTION_2023-05-11-113820_89944.json",
+		"P_PHASE.subsets/#_#_ALIM_REEL_LAM_TO_RESTITUTION_2023-05-22-160828_40212.json",
+		"P_PHASE.subsets/En cours.json",
+		"P_PHASE.subsets/Histo.json",
+		"P_PHASE.subsets/LEVEL_0.json",
+		"P_PHASE.subsets/LEVEL_0_LIBELLE.json",
+		"P_PHASE.subsets/Option_FC2_2017.json",
+		"P_PHASE.subsets/PHASE_PRECEDENTE.json",
+		"P_PHASE.subsets/PHASE_PRECEDENTE2.json",
+		"P_PHASE.subsets/PHASE_PREV.json",
+		"P_PHASE.subsets/PHASES HISTORIQUES.json",
+		"P_PHASE.subsets/Reel.json",
+		"P_PHASE.subsets/REPORTING.json",
+		"P_PHASE.subsets/VerifHisto.json"
+	]
+}

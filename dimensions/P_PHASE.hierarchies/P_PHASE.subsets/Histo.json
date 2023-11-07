@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Histo",
+	"Expression":"{TM1FILTERBYLEVEL( {TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [P_PHASE] )}, \"HISTO\")}, ALL, RECURSIVE )}, 0)}"
+}

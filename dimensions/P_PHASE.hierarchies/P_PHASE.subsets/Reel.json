@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Reel",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('P_PHASE')/Hierarchies('P_PHASE')/Elements('CD_REEL')"
+		}
+	]
+}

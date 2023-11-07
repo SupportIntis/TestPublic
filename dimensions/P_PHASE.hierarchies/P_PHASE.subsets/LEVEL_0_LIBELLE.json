@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"LEVEL_0_LIBELLE",
+	"Expression":"{TM1FILTERBYLEVEL( {TM1SUBSETALL( [P_PHASE] )}, 0)}"
+}

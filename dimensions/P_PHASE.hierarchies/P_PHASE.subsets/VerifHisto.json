@@ -1,0 +1,13 @@
+{
+	"@type":"Subset",
+	"Name":"VerifHisto",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('P_PHASE')/Hierarchies('P_PHASE')/Elements('BUDGET 2023 VALIDE DEV')"
+		},
+		{
+			"@id":"Dimensions('P_PHASE')/Hierarchies('P_PHASE')/Elements('CD_FCT_ENCOURS')"
+		}
+	]
+}

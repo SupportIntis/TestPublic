@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"En cours",
+	"Expression":"{STRTOMEMBER('[P_PHASE].['+[Z_PARAM].([Z_PARAM].[CD_PHASE_ENCOURS],[Z_PARAM_INDIC].[CD_VALEUR])+']')}"
+}

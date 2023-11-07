@@ -1,0 +1,15 @@
+{
+	"@type":"Dimension",
+	"Name":"S_CENTRE_COUT",
+	"AllLeavesHierarchyName":"Leaves",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('S_CENTRE_COUT')/Hierarchies('S_CENTRE_COUT')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"S_CENTRE_COUT.hierarchies/S_CENTRE_COUT.json",
+		"S_CENTRE_COUT.hierarchies/PERIMETRE_BUDGETAIRE.json",
+		"S_CENTRE_COUT.hierarchies/SOCIETE.json"
+	]
+}

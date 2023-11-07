@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"S_COMPTE_GENERAL",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('S_COMPTE_GENERAL')/Hierarchies('S_COMPTE_GENERAL')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"S_COMPTE_GENERAL.hierarchies/S_COMPTE_GENERAL.json"
+	]
+}

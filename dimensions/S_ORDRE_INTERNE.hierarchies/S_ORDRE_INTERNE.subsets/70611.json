@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"70611",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('S_ORDRE_INTERNE')/Hierarchies('S_ORDRE_INTERNE')/Elements('603006')"
+		}
+	]
+}

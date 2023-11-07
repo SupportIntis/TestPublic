@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"ALL",
+	"Expression":"{TM1SUBSETALL( [T_PERIODE_ANALYTIQUE] )}"
+}

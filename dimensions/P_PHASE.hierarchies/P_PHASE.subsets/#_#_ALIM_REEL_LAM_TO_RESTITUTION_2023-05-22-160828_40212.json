@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"#_#_ALIM_REEL_LAM_TO_RESTITUTION_2023-05-22-160828_40212",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('P_PHASE')/Hierarchies('P_PHASE')/Elements('CD_REEL')"
+		}
+	]
+}

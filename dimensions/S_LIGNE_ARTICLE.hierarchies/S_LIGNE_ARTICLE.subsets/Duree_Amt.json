@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Duree_Amt",
+	"Expression":"{ EXCEPT( {TM1FILTERBYLEVEL( {TM1SUBSETALL( [S_LIGNE_ARTICLE] )}, 0)}, { [S_LIGNE_ARTICLE].[0] }) }"
+}

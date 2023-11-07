@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"SAISIE_COST_ASSET",
+	"Expression":"{TM1FILTERBYLEVEL( {TM1DRILLDOWNMEMBER( {[S_DF_GENERIQUE_ACI].[TOT_DF_GEN_ACI]}, ALL, RECURSIVE )}, 0)}"
+}

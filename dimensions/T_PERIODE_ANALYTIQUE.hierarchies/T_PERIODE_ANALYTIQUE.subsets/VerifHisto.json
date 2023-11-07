@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"VerifHisto",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('T_PERIODE_ANALYTIQUE')/Hierarchies('T_PERIODE_ANALYTIQUE')/Elements('2023')"
+		}
+	]
+}

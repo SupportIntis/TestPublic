@@ -1,0 +1,22 @@
+{
+	"@type":"Subset",
+	"Name":"WEKA ADMIN FR",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('S_CENTRE_COUT')/Hierarchies('S_CENTRE_COUT')/Elements('0069')"
+		},
+		{
+			"@id":"Dimensions('S_CENTRE_COUT')/Hierarchies('S_CENTRE_COUT')/Elements('69611')"
+		},
+		{
+			"@id":"Dimensions('S_CENTRE_COUT')/Hierarchies('S_CENTRE_COUT')/Elements('69631')"
+		},
+		{
+			"@id":"Dimensions('S_CENTRE_COUT')/Hierarchies('S_CENTRE_COUT')/Elements('69632')"
+		},
+		{
+			"@id":"Dimensions('S_CENTRE_COUT')/Hierarchies('S_CENTRE_COUT')/Elements('69811')"
+		}
+	]
+}

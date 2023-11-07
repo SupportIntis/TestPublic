@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"FLAGMDVUE",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('I_COST_ASSET')/Hierarchies('I_COST_ASSET')/Elements('FLAG_MD_VUE')"
+		}
+	]
+}

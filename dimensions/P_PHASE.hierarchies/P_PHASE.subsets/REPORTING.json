@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"REPORTING",
+	"Expression":"{TM1SORTBYINDEX(FILTER(TM1SubsetToSet([P_PHASE].[P_PHASE] , \"LEVEL_0\" , \"public\") , (INSTR(1 , [P_PHASE].[P_PHASE].CURRENTMEMBER.PROPERTIES(\"REPORTING\") , \"X\" , 1) >= 1)) , DESC)}"
+}

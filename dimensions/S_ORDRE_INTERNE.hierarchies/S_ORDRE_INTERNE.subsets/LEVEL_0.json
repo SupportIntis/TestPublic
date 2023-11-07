@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"LEVEL_0",
+	"Expression":"{TM1FILTERBYLEVEL( {TM1SUBSETALL( [S_ORDRE_INTERNE] )}, 0)}"
+}

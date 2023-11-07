@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Default",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('S_SOUS_CATEGORIE')/Hierarchies('S_SOUS_CATEGORIE')/Elements('ND')"
+		}
+	]
+}

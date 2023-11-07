@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"SAISIE_BUD",
+	"Expression":"{TM1FILTERBYPATTERN( {TM1DRILLDOWNMEMBER( {TM1SUBSETALL( [T_PERIODE_ANALYTIQUE] )}, ALL, RECURSIVE )}, \"*_BUD*\")}"
+}

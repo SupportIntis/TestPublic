@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"SOCIETE_ENCOURS",
+	"Expression":"{TM1SubsetToSet([S_CENTRE_COUT] , [Z_PARAM_USER_MASSE_SALARIALE_MATRICULE].(STRTOMEMBER(\"[}Clients].[\" + USERNAME + \"]\"),[I_Z_PARAM_USER_MASSE_SALARIALE_MATRICULE].[SOCIETE]))}"
+}

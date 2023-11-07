@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"S_ORDRE_INTERNE",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('S_ORDRE_INTERNE')/Hierarchies('S_ORDRE_INTERNE')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"S_ORDRE_INTERNE.hierarchies/S_ORDRE_INTERNE.json"
+	]
+}

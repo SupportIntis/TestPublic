@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"ANNEE_PRECEDENTE_BUD",
+	"Expression":"{STRTOMEMBER('[T_PERIODE_ANALYTIQUE].['+[Z_PARAM].([Z_PARAM].[CD_ANNEE_PRECEDENTE],[Z_PARAM_INDIC].[CD_VALEUR])+'_BUD]')}\r"
+}

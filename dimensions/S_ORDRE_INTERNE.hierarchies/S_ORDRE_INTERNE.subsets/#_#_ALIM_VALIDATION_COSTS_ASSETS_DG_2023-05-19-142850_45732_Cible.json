@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"#_#_ALIM_VALIDATION_COSTS_ASSETS_DG_2023-05-19-142850_45732_Cible",
+	"Expression":"{TM1FILTERBYLEVEL( {TM1SUBSETALL( [S_ORDRE_INTERNE] )}, 0)}"
+}

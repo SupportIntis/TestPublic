@@ -1,0 +1,53 @@
+{
+	"@type":"Cube",
+	"Name":"COST_ASSET",
+	"Rules@Code.link":"COST_ASSET.rules",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('S_ORDRE_INTERNE')"
+		},
+		{
+			"@id":"Dimensions('S_LIGNE_ARTICLE')"
+		},
+		{
+			"@id":"Dimensions('S_SOUS_CATEGORIE')"
+		},
+		{
+			"@id":"Dimensions('S_DF_GENERIQUE_ACI')"
+		},
+		{
+			"@id":"Dimensions('S_CENTRE_COUT')"
+		},
+		{
+			"@id":"Dimensions('S_COMPTE_GENERAL')"
+		},
+		{
+			"@id":"Dimensions('P_PHASE')"
+		},
+		{
+			"@id":"Dimensions('T_PERIODE_ANALYTIQUE')"
+		},
+		{
+			"@id":"Dimensions('I_COST_ASSET')"
+		}
+	],
+	"Views@Code.links":
+	[
+		"COST_ASSET.views/2021_BDD_ASSET_EXPORT_XL.json",
+		"COST_ASSET.views/2021_BDD_COST_EXPORT_XL.json",
+		"COST_ASSET.views/2022_BDD_ASSET_EXPORT_XL.json",
+		"COST_ASSET.views/2022_BDD_COST_EXPORT_XL.json",
+		"COST_ASSET.views/BDD_AMORTISSEMENT_EXPORT_XL.json",
+		"COST_ASSET.views/BDD_ASSET_EXPORT_XL.json",
+		"COST_ASSET.views/BDD_COST_EXPORT_XL.json",
+		"COST_ASSET.views/VERIF_HISTO.json",
+		"COST_ASSET.views/Amortissements.json",
+		"COST_ASSET.views/Modification Asset.json",
+		"COST_ASSET.views/Soumission Assets User.json",
+		"COST_ASSET.views/Validation Asset Compta.json",
+		"COST_ASSET.views/Validation Asset EDP INTERCO MD.json",
+		"COST_ASSET.views/Validation EDP INTERCO ASSET MD.json",
+		"COST_ASSET.views/ZZZ.json"
+	]
+}

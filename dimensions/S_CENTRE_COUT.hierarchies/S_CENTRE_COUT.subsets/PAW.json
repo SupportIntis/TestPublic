@@ -1,0 +1,28 @@
+{
+	"@type":"Subset",
+	"Name":"PAW",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('S_CENTRE_COUT')/Hierarchies('S_CENTRE_COUT')/Elements('TOT_SOCIETE')"
+		},
+		{
+			"@id":"Dimensions('S_CENTRE_COUT')/Hierarchies('S_CENTRE_COUT')/Elements('0069-WEKA ADMIN FR')"
+		},
+		{
+			"@id":"Dimensions('S_CENTRE_COUT')/Hierarchies('S_CENTRE_COUT')/Elements('0070-WEKA')"
+		},
+		{
+			"@id":"Dimensions('S_CENTRE_COUT')/Hierarchies('S_CENTRE_COUT')/Elements('0072-ETI')"
+		},
+		{
+			"@id":"Dimensions('S_CENTRE_COUT')/Hierarchies('S_CENTRE_COUT')/Elements('0073-TISSOT')"
+		},
+		{
+			"@id":"Dimensions('S_CENTRE_COUT')/Hierarchies('S_CENTRE_COUT')/Elements('0075-WEKA SERVICES')"
+		},
+		{
+			"@id":"Dimensions('S_CENTRE_COUT')/Hierarchies('S_CENTRE_COUT')/Elements('0077-COMUNDI')"
+		}
+	]
+}

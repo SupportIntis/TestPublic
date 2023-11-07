@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"S_DF_GENERIQUE_ACI",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('S_DF_GENERIQUE_ACI')/Hierarchies('S_DF_GENERIQUE_ACI')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"S_DF_GENERIQUE_ACI.hierarchies/S_DF_GENERIQUE_ACI.json"
+	]
+}

@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"ANNEE_ENCOURS",
+	"Expression":"{STRTOMEMBER('[T_PERIODE_ANALYTIQUE].['+[Z_PARAM].([Z_PARAM].[CD_ANNEE_ENCOURS],[Z_PARAM_INDIC].[CD_VALEUR])+']')}\r"
+}

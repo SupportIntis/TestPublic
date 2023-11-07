@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"ANNEES",
+	"Expression":"{TM1FILTERBYPATTERN( {TM1FILTERBYLEVEL( {TM1SUBSETALL( [T_PERIODE_ANALYTIQUE] )}, 2)}, \"20*\")}"
+}

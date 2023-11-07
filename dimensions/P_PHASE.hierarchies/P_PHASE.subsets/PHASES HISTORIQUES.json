@@ -1,0 +1,13 @@
+{
+	"@type":"Subset",
+	"Name":"PHASES HISTORIQUES",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('P_PHASE')/Hierarchies('P_PHASE')/Elements('BUDGET 2020 VALIDE')"
+		},
+		{
+			"@id":"Dimensions('P_PHASE')/Hierarchies('P_PHASE')/Elements('CD_REEL')"
+		}
+	]
+}

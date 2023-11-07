@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"P_PHASE",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('P_PHASE')/Hierarchies('P_PHASE')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"P_PHASE.hierarchies/P_PHASE.json"
+	]
+}

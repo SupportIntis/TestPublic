@@ -1,0 +1,12 @@
+{
+	"@type":"Hierarchy",
+	"Name":"}zCopyDim4",
+	"Elements":
+	[
+		{
+			"Name":"zCopy",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"sDF_ENCOURS",
+	"Expression":"{STRTOMEMBER(\"[S_COMPTE_GENERAL].[\" + [S_DF_GENERIQUE_ACI].CURRENTMEMBER.PROPERTIES(\"COMPTE_GENERAL\") + \"]\")}"
+}

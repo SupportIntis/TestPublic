@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"2030",
+	"Expression":"{ DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [T_PERIODE_ANALYTIQUE] )}, \"2030\")}, {[T_PERIODE_ANALYTIQUE].[2030]} ) }"
+}

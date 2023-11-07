@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"}zCopyDim8",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}zCopyDim8')/Hierarchies('}zCopyDim8')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"}zCopyDim8.hierarchies/}zCopyDim8.json"
+	]
+}
